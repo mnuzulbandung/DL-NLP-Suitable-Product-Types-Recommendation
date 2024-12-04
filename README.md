@@ -10,7 +10,7 @@ The model creation and evaluation are performed in the file ___. To optimize per
 
 ## **Introduction**
 
-The **manual process** of selecting a product type for the marketplace led to issues, such as users choosing the wrong category. For example, if a guitar is mistakenly categorized as an "electronic device," it would be hard to sell, as it wouldn’t be visible to buyers in the "musical instruments" category. This **reduces visibility and delays sales**. Sellers facing long sales cycles may leave negative reviews, deterring potential users and impacting the platform’s ability to attract new customers and revenue.
+The **manual process** of selecting a product type for the marketplace led to issues, such as sellers choosing the wrong category. For example, if a guitar is mistakenly categorized as an "electronic device," it would be hard to sell, as it wouldn’t be visible to buyers in the "musical instruments" category. This **reduces visibility and delays sales**. Sellers facing long sales cycles may leave negative reviews, deterring potential sellers and impacting the platform’s ability to attract new customers and revenue.
 
 To solve this, the marketplace should offer **product type recommendations** to help sellers choose the right category, **improving their experience and sales outcomes**.
 
@@ -56,7 +56,7 @@ Here’s a summary of the columns in the dataset:
 
 ## **Conclusion**
 
-Although the model is overfitted, with a noticeable gap between accuracy and validation accuracy, both values exceed 9.3. Similarly, the training and test accuracy also show a discrepancy, yet both remain above 9.3. This indicates that, on average, the model makes 9 correct predictions out of 10. Despite the overfitting, this level of accuracy suggests that the model can effectively assist users in selecting the appropriate product type for their listings. However, the model's output is intended as supplementary guidance for users, not the sole basis for choosing a product type. As a result, the 10% error margin is considered acceptable and unlikely to have a significant impact.
+Although the model is overfitted, with a noticeable gap between accuracy and validation accuracy, both values exceed 9.3. Similarly, the training and test accuracy also show a discrepancy, yet both remain above 9.3. This indicates that, on average, the model makes 9 correct predictions out of 10. Despite the overfitting, this level of accuracy suggests that the model can effectively assist sellers in selecting the appropriate product type for their listings. However, the model's output is intended as supplementary guidance for sellers, not the sole basis for choosing a product type. As a result, the 10% error margin is considered acceptable and unlikely to have a significant impact.
 
 
 ## **Link to Model Deployment**
