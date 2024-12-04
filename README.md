@@ -47,8 +47,9 @@ Here’s a summary of the columns in the dataset:
 
 - Natural Language Processing
 - Long Short-Term Memory (LSTM)
+- Bidirectional
 - Softmax Activation Function
-- Adaptive Moment Estimation (ADAM)
+- Adaptive Moment Estimation (ADAM) Optimizer
 - categorical_crossentropy Loss Function
 - Accuracy Metric
 
