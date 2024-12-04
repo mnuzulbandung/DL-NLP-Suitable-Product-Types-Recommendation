@@ -29,7 +29,7 @@ Here’s a summary of the columns in the dataset:
 | descriptions | Product's Descriptions | Categorical |
 
 
-## **Methodology**
+## **Methodology in Model Creation and Evaluation**
 
 1.	**Introduction**: Describing the problems and machine learning model, model evaluation, and methods needed to solve those problems.
 2.	**Import Libraries**: Calling the required modules
