@@ -62,7 +62,8 @@ Although the model is overfitted, with a noticeable gap between accuracy and val
 ## **Link to Model Deployment**
 
 You can interact with and explore the deployed model here:  
-[Suitable Product Types Recommendation](https://huggingface.co/spaces/mnuzulbandung/aaaa)
+[Suitable Product Types Recommendation](https://huggingface.co/spaces/mnuzulbandung/DL_NLP)
+
 
 ## **Libraries Used**
 
@@ -77,4 +78,4 @@ You can interact with and explore the deployed model here:
 ## **Author**
 
 M Nuzul  
-LinkedIn: [M NUzul](https://www.linkedin.com/in/m-nuzul/)
+LinkedIn: [M Nuzul](https://www.linkedin.com/in/m-nuzul/)
